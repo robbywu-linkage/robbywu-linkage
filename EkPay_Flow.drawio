@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T08:15:56.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="20qT8zwTm7dFaaUAuWLg" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T08:18:04.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CobSw4DCYGNvhJubOdeX" version="16.0.0" type="github">
   <diagram id="2_rr5N9nRLOKFVuLbt1i" name="Page-1">
     <mxGraphModel dx="2086" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DbHoRCsEsAXjaNjMFUGG-101" value="Member" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="440" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="430" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DbHoRCsEsAXjaNjMFUGG-103" value="Member Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="DbHoRCsEsAXjaNjMFUGG-101" vertex="1">
           <mxGeometry y="30" width="100" height="30" as="geometry" />
@@ -126,8 +126,8 @@
         <mxCell id="DbHoRCsEsAXjaNjMFUGG-107" value="API Key" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="230" y="205" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbHoRCsEsAXjaNjMFUGG-111" value="可用於登入 APP" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;size=20;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="465" y="461" width="105" height="70" as="geometry" />
+        <mxCell id="DbHoRCsEsAXjaNjMFUGG-111" value="APP &lt;br&gt;Login Account" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;size=20;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="480" y="451" width="105" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
