@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T05:51:29.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.0" etag="Fc7n9Tz9vFbJTFF7388L" type="github"><diagram id="_qxDVyLVsHn5jBmgNzAL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-22T06:04:09.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CN5ioMTxJUgZMg8_QEYt" version="17.4.0" type="github">
+  <diagram id="_qxDVyLVsHn5jBmgNzAL" name="第1頁">
+    <mxGraphModel dx="1968" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-1" target="bwNQpMjUBlmSsY5Jf_L3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-1" value="註冊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-3" target="bwNQpMjUBlmSsY5Jf_L3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-3" value="OTP 驗證&lt;br&gt;Phone Number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-5" target="bwNQpMjUBlmSsY5Jf_L3-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="520" />
+              <mxPoint x="210" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-5" target="bwNQpMjUBlmSsY5Jf_L3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-5" value="未有重複" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-8" target="bwNQpMjUBlmSsY5Jf_L3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-8" value="驗證 Email" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-13" target="bwNQpMjUBlmSsY5Jf_L3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-13" value="討論：&lt;br&gt;允許重複？" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="542" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-18" target="bwNQpMjUBlmSsY5Jf_L3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-18" target="bwNQpMjUBlmSsY5Jf_L3-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-18" value="推薦鏈接" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="680" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwNQpMjUBlmSsY5Jf_L3-20" target="bwNQpMjUBlmSsY5Jf_L3-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-20" value="自動帶入推薦碼" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-22" value="手動輸入推薦碼" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwNQpMjUBlmSsY5Jf_L3-26" value="有無推薦馬" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="880" width="110" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
